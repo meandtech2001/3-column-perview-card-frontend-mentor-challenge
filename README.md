@@ -1,2 +1,1 @@
-# 3-column-perview-card-frontend-mentor-challenge
-Frontend mentor challenge
+# 3-column-perview-card-card-component
